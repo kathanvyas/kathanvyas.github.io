@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Research Portfolio
 
-![My Display Picture](C:\Users\Kathan Vyas\Documents\GitHub\autograder-core1\kathanvyas.github.io\images\profile.png)
+![My Display Picture](images\profile.png)
 
 ## About Me
 
