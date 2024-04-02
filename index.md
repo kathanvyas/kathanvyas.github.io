@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Research Portfolio
 
-![My Display Picture](URL_OF_YOUR_PICTURE)
+![My Display Picture](C:\Users\Kathan Vyas\Documents\GitHub\autograder-core1\kathanvyas.github.io\images\profile.png)
 
 ## About Me
 
@@ -32,9 +32,9 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 
 Feel free to reach out to me for collaborations or discussions related to my research fields.
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [Your Twitter Handle](#)
+- Email: [kathan at USA.com](mailto:kathan@usa.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kathanvyas/)
+- Twitter: [Your Twitter Handle](https://twitter.com/kathanvyas)
 
 ---
 
