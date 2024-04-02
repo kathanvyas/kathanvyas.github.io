@@ -24,7 +24,7 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 
 ### Publications
 
-- **Paper Title 1**: Brief description or impact of your research. [Link to paper](#)
+- **Recognition of atypical behavior in autism diagnosis from video using pose estimation over time**: A study on implementing a computer vision-based approach for automatic Autism Spectrum Disorder prediction, utilizing video data of children to distinguish between typical and atypical behaviors through pose estimation, motion pattern analysis, and binary classification, achieving a 72.4% accuracy.. [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 - **Paper Title 2**: Summary of the paper's key points. [Link to paper](#)
 - **Paper Title 3**: Insights into this particular publication. [Link to paper](#)
 
