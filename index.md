@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Research Portfolio
 
-![My Display Picture](images\profile.png)
+![My Display Picture](resources\profile.png)
 
 ## About Me
 
@@ -16,11 +16,10 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 - **Deep Learning Applications**: Exploring the capabilities of deep neural networks in processing complex medical data.
 - **Health Analytics**: Utilizing data analytics to uncover insights in healthcare data and improve patient outcomes.
 
-### Projects
+### Resume
 
-- **Project 1**: Description of your project in machine learning.
-- **Project 2**: Overview of a significant project in deep learning.
-- **Project 3**: Brief about a healthcare analytics project you've worked on.
+-[Click here for my resume](resume.md) 
+-[Click here to download my resume](resources\Resume.docx) 
 
 ### Publications
 
