@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Welcome to My Research Portfolio
+# Welcome to My Research World
 
 ![My Display Picture](resources\profile.png)
 
@@ -21,11 +21,22 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 -[Click here for my resume](resume.md) 
 -[Click here to download my resume](resources\Resume.docx) 
 
+-[Click here for my CV](resume.md) 
+-[Click here to download my CV](resources\Resume.docx) 
+
 ### Publications
 
-- **Recognition of atypical behavior in autism diagnosis from video using pose estimation over time**: A study on implementing a computer vision-based approach for automatic Autism Spectrum Disorder prediction, utilizing video data of children to distinguish between typical and atypical behaviors through pose estimation, motion pattern analysis, and binary classification, achieving a 72.4% accuracy.. [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **Recognition of atypical behavior in autism diagnosis from video using pose estimation over time**: A study on implementing a computer vision-based approach for automatic Autism Spectrum Disorder prediction, utilizing video data of children to distinguish between typical and atypical behaviors through pose estimation, motion pattern analysis, and binary classification, achieving a 72.4% accuracy. [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 - **Paper Title 2**: Summary of the paper's key points. [Link to paper](#)
 - **Paper Title 3**: Insights into this particular publication. [Link to paper](#)
+
+### Projects
+
+- **SNOOZE**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **Echoes of Choices**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **Hypoglycemia Classification from ECG**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **3D Pose Estimation**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+
 
 ### Contact
 
