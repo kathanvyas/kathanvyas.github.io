@@ -1,3 +1,8 @@
+---
+layout: default
+title: Resume
+---
+
 # Kathan Vyas
 
 [kathan@usa.com](mailto:kathan@usa.com) | 646-240-0616 | [www.kathanvyas.com](http://www.kathanvyas.com)
