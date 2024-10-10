@@ -4,7 +4,7 @@ layout: default
 
 # Welcome to My Research World
 
-![My Display Picture](resources\profile.png)
+![My Display Picture](resources/profile.png)
 
 ## About Me
 
@@ -18,8 +18,8 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 
 ### Resume
 
--[Click here for my resume](resume.md) 
--[Click here to download my resume](resources\Resume.docx) 
+- <a href="resume.md" target="_blank">Click here for my Resume</a>
+-[Click here to download my resume](resources/Resume.docx) 
 
 -[Click here for my CV](resume.md) 
 -[Click here to download my CV](resources\Resume.docx) 
@@ -42,9 +42,10 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 
 Feel free to reach out to me for collaborations or discussions related to my research fields.
 
-- Email: [kathan at USA.com](mailto:kathan@usa.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kathanvyas/)
-- Twitter: [Your Twitter Handle](https://twitter.com/kathanvyas)
+- Email: [kathan@usa.com](mailto:kathan@usa.com)
+- LinkedIn: [Kathan Vyas](https://www.linkedin.com/in/kathanvyas/)
+- Twitter: [@kathanvyas](https://twitter.com/kathanvyas)
+
 
 ---
 
