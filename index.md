@@ -32,7 +32,7 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 
 ### Projects
 
-- **SNOOZE**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **SNOOZE**:  [Link to Github]([https://ieeexplore.ieee.org/abstract/document/8918863](https://github.com/kathanvyas/SNOOZE/tree/main))
 - **Echoes of Choices**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 - **Hypoglycemia Classification from ECG**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 - **3D Pose Estimation**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
