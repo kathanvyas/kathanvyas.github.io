@@ -33,8 +33,8 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 ### Projects
 
 - **SNOOZE**:  An intelligent personal organizer that assists you with ddaily emails - summaries, sending emails, scheduling meetings ,and generating to-do lists. ([Link to Github](https://github.com/kathanvyas/SNOOZE/tree/main)) 
-- **Echoes of Choices**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
-- **Hypoglycemia Classification from ECG**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
+- **Echoes of Choices**:  Imagine a story navigation game where a user plays as a character in a story which is derived from either a real life story or movie. Using the structure of decisions made by the user, behavior patterns can be studied and compared to baseline decisions. Uses LLM , user - system prompting, Psychology and intelligent visaulisation. ([Link to Github](https://github.com/kathanvyas/SNOOZE/tree/main)) 
+- **Hypoglycemia Classification from ECG**:  Hypoglycemia (Low blood glucose) is a symptom of Type 2 Diabetes and [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 - **3D Pose Estimation**:  [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
 
 
