@@ -19,10 +19,11 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 ### Resume
 
 - <a href="resume.md" target="_blank">Click here for my Resume</a>
--[Click here to download my resume](resources/Resume.docx) 
+-[Click here to download my resume](resources/Resume.docx)
 
--[Click here for my CV](resume.md) 
--[Click here to download my CV](resources\Resume.docx) 
+- <a href="resume.md" target="_blank">Click here for my CV</a>
+-[Click here to download my CV](resources/Resume.docx)
+
 
 ### Publications
 
