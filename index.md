@@ -28,8 +28,11 @@ I am a dedicated Ph.D. student specializing in the intersection of machine learn
 ### Publications
 
 - **Recognition of atypical behavior in autism diagnosis from video using pose estimation over time**: A study on implementing a computer vision-based approach for automatic Autism Spectrum Disorder prediction, utilizing video data of children to distinguish between typical and atypical behaviors through pose estimation, motion pattern analysis, and binary classification, achieving a 72.4% accuracy. [Link to paper](https://ieeexplore.ieee.org/abstract/document/8918863)
-- **Paper Title 2**: Summary of the paper's key points. [Link to paper](#)
-- **Paper Title 3**: Insights into this particular publication. [Link to paper](#)
+- **Additional value of augmenting current subscales in braden scale with advanced machine learning technique for pressure injury risk assessment**: Summary of the paper's key points. [Link to paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LAIZZWEAAAAJ&citation_for_view=LAIZZWEAAAAJ:2osOgNQ5qMEC)
+- **An efficient 3d synthetic model generation pipeline for human pose data augmentation**: Insights into this particular publication. [Link to paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LAIZZWEAAAAJ&citation_for_view=LAIZZWEAAAAJ:zYLM7Y9cAGgC)
+- ** Detection of glycemic excursions using morphological and time-domain ECG features**: Insights into this particular publication. [Link to paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LAIZZWEAAAAJ&citation_for_view=LAIZZWEAAAAJ:W7OEmFMy1HYC)
+- ** Masters' Thesis : Data Efficient Analysis of Human Behavior by Spatio-Temporal Pose Generation and Inference**: Insights into this particular publication. [Link to paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LAIZZWEAAAAJ&citation_for_view=LAIZZWEAAAAJ:qjMakFHDy7sC)
+
 
 ### Projects
 
